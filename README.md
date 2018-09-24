@@ -1,0 +1,2 @@
+# CookieCopy
+Cookie Clicker
